@@ -1,7 +1,7 @@
-# React & React Native crossplatform app with Redux
+# React & React Native cross platform app with Redux
 
 ## About
-This is crossplatfom app build with [react@15.4.0-rc.4](https://facebook.github.io/react/) and [react-native@0.40.0](https://facebook.github.io/react-native/) with [redux@3.6.0](http://redux.js.org/) for data management. This is version of project setup in which most of redux code is shared.
+This is cross platfom app build with [react@15.4.0-rc.4](https://facebook.github.io/react/) and [react-native@0.40.0](https://facebook.github.io/react-native/) with [redux@3.6.0](http://redux.js.org/) for data management. This is version of project setup in which most of redux code is shared.
 You can add todos, toggle them and change layout to see all, completed or active todos.
 
 ### Shared code
