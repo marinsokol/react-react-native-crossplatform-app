@@ -1,0 +1,77 @@
+import { StyleSheet } from 'react-native';
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: 'center',
+    backgroundColor: 'lightblue',
+  },
+  addTodo: {
+    marginTop: 50,
+  },
+  input: {
+    height: 40,
+    width: 250,
+    paddingLeft: 10,
+    borderRadius: 4,
+    borderWidth: 0.5,
+    borderColor: 'blue',
+  },
+  button: {
+    height: 40,
+    width: 250,
+    marginTop: 10,
+    borderRadius: 4,
+    borderWidth: 0.5,
+    borderColor: '#F26969',
+    backgroundColor: '#F26969',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  navBar: {
+    width: 250,
+    marginTop: 10,
+    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  navBarButton: {
+    width: 80,
+    height: 40,
+    borderRadius: 4,
+    borderWidth: 0.5,
+    borderColor: '#F26969',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  navBarButtonActive: {
+    width: 80,
+    height: 40,
+    borderRadius: 4,
+    borderWidth: 0.5,
+    borderColor: '#F26969',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: 'green',
+  },
+  listItem: {
+    borderRadius: 4,
+    borderWidth: 0.5,
+    borderColor: 'blue',
+    marginTop: 10,
+    height: 50,
+    width: 250,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  error: {
+    flex: 1,
+    backgroundColor: 'red',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  errorText: {
+    fontSize: 25,
+    color: 'white',
+  },
+});

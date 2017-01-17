@@ -1,0 +1,32 @@
+body {
+    background: lightblue;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+.nav-wrapper ul {
+    width: 100%;
+}
+
+.nav-wrapper ul li {
+    width: 33%;
+    text-align: center;
+}
+
+.completed {
+    text-decoration: line-through
+}
+
+.active {
+    z-index: 1003;
+    display: block !important;
+    opacity: 1;
+    bottom: 0 !important;
+}
