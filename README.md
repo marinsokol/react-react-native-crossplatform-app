@@ -26,8 +26,9 @@ App is built with yarn, but you can run it with npm:
 
 1. Clone repository
 2. ``` yarn ``` or ``` npm install ``` to build project
-3. ``` yarn run ios ``` to run ios app
-    ```yarn run android ``` to run android app
-    ```yarn run web ``` to run web app
+3. Run project:
+ - ``` yarn run ios ``` to run ios app
+ - ```yarn run android ``` to run android app
+ - ```yarn run web ``` to run web app
 
 If you don't have React Native setup on your machine, you can go throw [official setup](https://facebook.github.io/react-native/docs/getting-started.html) by Facebook 
