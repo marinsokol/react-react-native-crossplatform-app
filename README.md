@@ -31,4 +31,4 @@ App is built with yarn, but you can run it with npm:
  - ```yarn run android ``` to run android app
  - ```yarn run web ``` to run web app
 
-If you don't have React Native setup on your machine, you can go throw [official setup](https://facebook.github.io/react-native/docs/getting-started.html) by Facebook 
+If you don't have React Native setup on your machine, you can take a look at [official setup](https://facebook.github.io/react-native/docs/getting-started.html) by Facebook 
